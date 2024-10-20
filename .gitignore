@@ -3,6 +3,9 @@
 # Local files
 *.local
 
+# DS Store
+.DS_Store
+
 ####### Terraform #######
 
 # Ignore Terraform state files
