@@ -3,6 +3,12 @@
 # Local files
 *.local
 
+# Zip files
+*.zip
+
+# Cert files
+*.crt
+
 # DS Store
 .DS_Store
 
