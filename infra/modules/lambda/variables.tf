@@ -12,3 +12,8 @@ variable "sparkify_etl_bucket_arn" {
   description = "Sparkify ETL Bucket ARN"
   type        = string
 }
+
+variable "sparkify_api_role_arn" {
+  description = "Sparkify API Role ARN"
+  type        = string
+}
