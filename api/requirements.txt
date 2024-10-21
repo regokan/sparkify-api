@@ -1,0 +1,7 @@
+fastapi
+strawberry-graphql
+cassandra-driver
+cassandra-sigv4
+mangum
+pydantic
+pydantic-core
