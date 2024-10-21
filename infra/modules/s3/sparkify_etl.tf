@@ -3,8 +3,9 @@ resource "aws_s3_bucket" "sparkify_etl" {
 
   tags = {
     Name        = "sparkify-etl"
-    Project     = "Jobs"
+    Project     = "sparkify_etl"
     Owner       = "DataEngg"
+    Stage       = "ETL"
     Environment = "Production"
   }
 }
